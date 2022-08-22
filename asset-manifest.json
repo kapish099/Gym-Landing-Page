@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/static/js/main.af193582.js",
+    "static/media/hero-image.png": "/static/media/hero-image.8e6060be66713354432c.png",
+    "static/media/benefits-img.png": "/static/media/benefits-img.2edccd4c75584105fe56.png",
+    "static/media/avatar3.jpg": "/static/media/avatar3.e1338983fe4e651e38ef.jpg",
+    "static/media/program1-img.png": "/static/media/program1-img.5a18d5725a5efa154301.png",
+    "static/media/avatar2.jpg": "/static/media/avatar2.0b035c7f125f13730fdd.jpg",
+    "static/media/the-founder.png": "/static/media/the-founder.66025771a57f8f30ac10.png",
+    "static/media/avatar5.jpg": "/static/media/avatar5.555fefb87899a3c47036.jpg",
+    "static/media/the-professionals.png": "/static/media/the-professionals.bf5b4e0b90bde648eb9a.png",
+    "static/media/avatar4.jpg": "/static/media/avatar4.fdb40bb01a9a0ac39125.jpg",
+    "static/media/program2-img.png": "/static/media/program2-img.97385321308d28e12540.png",
+    "static/media/attestant-avatar1.jpg": "/static/media/attestant-avatar1.8a905f3feb5ed51cdafb.jpg",
+    "static/media/avatar1.jpg": "/static/media/avatar1.237d7ad2b16577a3dcd1.jpg",
+    "index.html": "/index.html",
+    "main.af193582.js.map": "/static/js/main.af193582.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.af193582.js"
+  ]
+}
